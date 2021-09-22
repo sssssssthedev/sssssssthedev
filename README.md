@@ -8,7 +8,7 @@
 
 ![sssssssthedev Github Stats](https://github-readme-stats.vercel.app/api?username=sssssssthedev&show_icons=true&hide_border=true)&nbsp;&nbsp;
 
-![sssssssthedev Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sssssssthedev&layout=compact&langs_count=8&hide_border=true)
+![sssssssthedev Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sssssssthedev&layout=compact&langs_count=2&hide_border=true)
 <br />
 
 
