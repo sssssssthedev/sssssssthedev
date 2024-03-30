@@ -2,8 +2,8 @@
 </br>
 
 ### About me
-- 💻 Java and C# Developer </br>
-- 🖥️ I use Intellij Idea and Jetbrains Rider </br>
+- 💻 Java, C/C++ and C# Developer </br>
+- 🖥️ I use Visual Studio, Intellij Idea and Jetbrains Rider </br>
 </br>
 
 ![sssssssthedev Github Stats](https://github-readme-stats.vercel.app/api?username=sssssssthedev&show_icons=true&hide_border=true)&nbsp;&nbsp;
